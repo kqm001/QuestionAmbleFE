@@ -50,7 +50,7 @@ The app was designed so that a user can be both a quest creator and player. As a
 
 ### Live Demo
 
-*Link coming soon!*
+Watch a live demo of QuestionAmble [here](https://youtu.be/cPXdBUwHqvc).
 
 ### Resources
 1. [React Native](https://facebook.github.io/react-native/)
