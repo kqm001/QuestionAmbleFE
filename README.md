@@ -6,21 +6,19 @@ This is the front end component of our project. Although we had one week to desi
 
 Information regarding the QuestionAmble Back End can be found [here](https://github.com/kqm001/QuestionAmble-BE).
 
-### Table of Contents
-- Team Members
-- Program Structure
-- Design Decisions
-- User Interactions
-- Live Demo
-- Resources
+## Table of Contents
+* [Team Members](#team-members)
+* [Application Structure](#application-structure)
+* [Live Demo](#live-demo)
+* [Resources](#resources)
 
-#### Team Members
+### Team Members
 * [Wan Tsui](https://github.com/wantsui)
 * [Kelsey Malone](https://github.com/kqm001)
 * [Kevin Cross](https://github.com/Kevinhcross96)
 * [Rahat Alam](https://github.com/rahat64)
 
-#### Program Structure
+### Application Structure
 ![tech_used](QuestionAmble_tech_used.jpg)
 
 The front end is programmed in React Native and calls on the back end to access and store data.
@@ -31,7 +29,6 @@ The front end is programmed in React Native and calls on the back end to access 
 3. To show the quest creators a visual representation of their location, Airbnb's React Native Maps was used.
 4. To store and extract information, we used Rails with Postgres as the back-end. By treating Rails as an API, the React Native application just needed to be concerned with working with the data provided.
 5. React Navigation, specifically stack navigator, was used to allow the user to navigate to different screens and view different pieces of information.
-
 
 #### User Interactions
 The app was designed so that a user can be both a quest creator and player. As a result, users have the following options when interacting with the application:
@@ -51,11 +48,11 @@ The app was designed so that a user can be both a quest creator and player. As a
   - If a user gets a question incorrectly, the user can try to answer again.
   - Once all the questions have been answered, a user can see results.
 
-#### Live Demo
+### Live Demo
 
 *Link coming soon!*
 
-#### Resources
+### Resources
 1. [React Native](https://facebook.github.io/react-native/)
 2. [MDN web docs - "Geolocation"](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
 3. [MDN web docs - "Using geolocation"](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
