@@ -64,6 +64,3 @@ The app was designed so that a user can be both a quest creator and player. As a
 6. [React Navigation](https://reactnavigation.org/)
 7. [React Navigation GitHub](https://github.com/react-community/react-navigation)
 8. [React Navigation GitHub Issue: "How to pass `initialProps` to a StackNavigator screen? #876"](https://github.com/react-community/react-navigation/issues/876)
-
-
-*This README is still in progress. Check back soon for more updates!*
